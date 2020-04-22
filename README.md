@@ -15,7 +15,7 @@ Reference : https://github.com/Tiiiger/QPyTorch
 
 > 72.14%(No retuning)
 
-| Full precision | 76.11% | # | # | # |
+| Full precision | 76.11% |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
 | low precision | Retuning(no bias) | No Retuning(no bias) | Retuning(with bias) | No Retuning(with bias) |
 | FP8(exp=5,man=2) | 75.38% | 75.08% | blank | blank |
